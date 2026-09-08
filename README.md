@@ -4,12 +4,6 @@ This repository contains the report for a group project studying the mathematica
 
 The project develops the theory starting from Fermat's primality test and studies the bound on the proportion of Miller–Rabin nonwitnesses for composite integers.
 
-## Authors
-
-- Aimilia Kokkinofta
-- Briana–Mihaela Balea
-- Elisaveta Bobrova
-
 ## Topics
 
 - Number theory
@@ -19,6 +13,8 @@ The project develops the theory starting from Fermat's primality test and studie
 - Chinese remainder theorem
 - Probabilistic algorithms
 
-## Report
+## Authors
 
-The full project report is available in this repository.
+- Aimilia Kokkinofta
+- Briana–Mihaela Balea
+- Elisaveta Bobrova
